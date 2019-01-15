@@ -9,3 +9,4 @@ lab50:
     - !include water.py
     - !include puntjes.py
     - !include wisselgeld.py
+    - !include som.py
