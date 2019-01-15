@@ -10,5 +10,6 @@ lab50:
     - !include puntjes.py
     - !include fahrenheit.py
     - !include wisselgeld.py
+    - !include muntje.py
     - !include som.py
     - !include stats.py
