@@ -7,3 +7,4 @@ lab50:
   files:
     - !exclude "*"
     - !include water.py
+    - !include puntjes.py

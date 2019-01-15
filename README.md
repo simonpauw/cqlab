@@ -16,3 +16,14 @@ van de code. Denk aan:
 - naamgevingsconventie
 - magic numbers
 - commentaar
+
+{% next "Volgende" %}
+
+## Opdracht 2: puntjes
+
+Probeer puntjes.py te verbeteren. Let hierbij vooral op de leesbaarheid
+van de code. Denk aan:
+- betekenisvolle variabelenamen
+- indentatie
+- spatiering rond operatoren
+- magic numbers
