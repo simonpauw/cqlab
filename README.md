@@ -27,3 +27,11 @@ van de code. Denk aan:
 - indentatie
 - spatiering rond operatoren
 - magic numbers
+
+{% next "Volgende" %}
+
+## Opdracht 5: wisselgeld
+Probeer wisselgeld.py te verbeteren. Let hierbij vooral op:
+- de complexiteit van het algoritme
+- magic numbers
+- eenduidig gebruik van variabelen
