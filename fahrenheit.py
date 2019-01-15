@@ -1,7 +1,7 @@
 ## fahrenheit.py: Converteer een Temperatuur van Fahrenheit naar Celcius
 ## Auteur: Lord W. T. Kelvin
 
-while(True):
+while True:
     F = input('Temperatuur in Fahranheit (or just press enter to quit): ')
     if F == '':
         break

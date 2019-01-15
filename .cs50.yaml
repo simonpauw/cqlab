@@ -11,3 +11,4 @@ lab50:
     - !include fahrenheit.py
     - !include wisselgeld.py
     - !include som.py
+    - !include stats.py

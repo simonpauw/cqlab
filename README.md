@@ -65,3 +65,8 @@ Probeer wisselgeld.py te verbeteren. Let hierbij vooral op:
 - de complexiteit van het algoritme
 - magic numbers
 - eenduidig gebruik van variabelen
+
+
+
+## Opdracht 7: stats
+Probeer stats.py te verbeteren.
