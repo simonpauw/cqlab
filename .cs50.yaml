@@ -8,3 +8,4 @@ lab50:
     - !exclude "*"
     - !include water.py
     - !include puntjes.py
+    - !include wisselgeld.py
