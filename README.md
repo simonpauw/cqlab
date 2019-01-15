@@ -66,6 +66,8 @@ Probeer wisselgeld.py te verbeteren. Let hierbij vooral op:
 - magic numbers
 - eenduidig gebruik van variabelen
 
+{% next "Volgende" %}
+
 ## Opdracht 6: muntje
 Het programma muntje.py gaat over het gooien van een eerlijke munt. Normaal gesproken
 zou een eerlijke een even grote kans hebben op kop als munt. Met muntje.py checken we
@@ -75,6 +77,8 @@ of dit ook echt zo is. Probeer het eerst eens uit:
 
 Het programma werkt prima, maar kan qua ontwerp een stuk beter. Probeer te begrijpen hoe
 het programma werkt. En kijk of je het algoritme wat eenvoudiger kan maken.
+
+{% next "Volgende" %}
 
 ## Opdracht 7: stats
 Dit programma stats.py berekent het gemiddelde en de standaarddeviatie van een lijst getallen.
