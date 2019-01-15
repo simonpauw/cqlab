@@ -6,3 +6,4 @@ lab50:
     - terminal
   files:
     - !exclude "*"
+    - !include water.py
