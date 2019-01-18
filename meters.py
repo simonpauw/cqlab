@@ -1,4 +1,4 @@
-# Converteer imperial (feet en inches) naar metriek (meters)
+# Converteer imperiaal (feet en inches) naar metriek (meters)
 
 # input foot
 foot = None
