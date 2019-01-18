@@ -45,7 +45,7 @@ Probeer het programma te verbeteren. Let hierbij vooral op de indeling van het p
 {% next "Volgende" %}
 
 ## Discussie
-Als je hier bent laat het even weten. Ga nog niet verder. We gaan eerst centraal de vorige drie opgaven bespreken.
+Als je hier bent, laat het even weten. Ga nog niet verder. We gaan eerst centraal de vorige drie opgaven bespreken.
 
 {% next "Volgende" %}
 
@@ -86,7 +86,7 @@ het programma werkt. En kijk of je het algoritme wat eenvoudiger kan maken.
 {% next "Volgende" %}
 
 ## Discussie
-Als je hier bent laat het even weten. Ga nog niet verder. We gaan eerst centraal de vorige drie opgaven bespreken.
+Als je hier bent, laat het even weten. Ga nog niet verder. We gaan eerst centraal de vorige drie opgaven bespreken.
 
 {% next "Volgende" %}
 
