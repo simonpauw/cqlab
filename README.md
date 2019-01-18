@@ -44,6 +44,11 @@ Probeer het programma te verbeteren. Let hierbij vooral op de indeling van het p
 
 {% next "Volgende" %}
 
+## Discussie
+Als je hier bent laat het even weten. Ga nog niet verder. We gaan eerst centraal de vorige drie opgaven bespreken.
+
+{% next "Volgende" %}
+
 ## Opdracht 4: som
 
 Het programma som.py berekent de som van een lijst getallen. Probeer het programma uit:
@@ -80,12 +85,23 @@ het programma werkt. En kijk of je het algoritme wat eenvoudiger kan maken.
 
 {% next "Volgende" %}
 
+## Discussie
+Als je hier bent laat het even weten. Ga nog niet verder. We gaan eerst centraal de vorige drie opgaven bespreken.
+
+{% next "Volgende" %}
+
 ## Opdracht 7: meters
 Het programma meters.py converteert inches en feet naar meters. Eerst wordt de
 gebruiker om input gevraagd. Als de gebruiker geen geheel getal (een integer) invoert,
 maar iets anders, wordt opnieuw om input gevraagd.
 
+{% next "Volgende" %}
 
 ## Opdracht 8: stats
 Dit programma stats.py berekent het gemiddelde en de standaarddeviatie van een lijst getallen.
 Verbeter het ontwerp van dit programma.
+
+{% next "Volgende" %}
+
+## That's all folks!
+Je bent klaar! Even geduld, we gaan zo centraal de laatste twee opgaven bespreken.
