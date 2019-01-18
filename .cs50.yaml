@@ -12,4 +12,5 @@ lab50:
     - !include wisselgeld.py
     - !include muntje.py
     - !include som.py
+    - !include meters.py
     - !include stats.py

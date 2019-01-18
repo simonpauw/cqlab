@@ -80,6 +80,12 @@ het programma werkt. En kijk of je het algoritme wat eenvoudiger kan maken.
 
 {% next "Volgende" %}
 
-## Opdracht 7: stats
+## Opdracht 7: meters
+Het programma meters.py converteert inches en feet naar meters. Eerst wordt de
+gebruiker om input gevraagd. Als de gebruiker geen geheel getal (een integer) invoert,
+maar iets anders, wordt opnieuw om input gevraagd.
+
+
+## Opdracht 8: stats
 Dit programma stats.py berekent het gemiddelde en de standaarddeviatie van een lijst getallen.
 Verbeter het ontwerp van dit programma.
