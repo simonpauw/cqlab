@@ -95,6 +95,8 @@ Het programma meters.py converteert inches en feet naar meters. Eerst wordt de
 gebruiker om input gevraagd. Als de gebruiker geen geheel getal (een integer) invoert,
 maar iets anders, wordt opnieuw om input gevraagd.
 
+Verbeter het programma. Let hierbij op design. Kijk vooral goed naar gebruik van functies in dit programma. Dat kan een stuk beter.
+
 {% next "Volgende" %}
 
 ## Opdracht 8: stats
